@@ -4,7 +4,7 @@
 
 - 规则与 skills 的唯一事实源在：`ai/ssot/`
 - 公共工程执行规范在：`ai/rules/`
-- 平台目录（`.trae/`、`.lingma/`、`.agent/`、`.agents/`）为发布产物，禁止手改；请改 SSOT 后运行同步脚本。
+- 平台目录（`.trae/`、`.lingma/`、`.agent/`、`.codex/`）为发布产物，禁止手改；请改 SSOT 后运行同步脚本。
 
 ## 开始任何工程任务前（必读）
 
